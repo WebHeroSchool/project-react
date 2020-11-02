@@ -1,0 +1,22 @@
+{
+  "name": "project-react",
+  "version": "1.0.0",
+  "description": "React Project",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js",
+    "create": "touch build.js",
+    "delete": "rm -rf build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/project-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/project-react/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/project-react#readme"
+}
